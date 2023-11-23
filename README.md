@@ -52,5 +52,3 @@
 ### Halaman Member (Pengembangan Index)
 
 - Fitur logout.
-
-Teks ini adalah ringkasan README GitHub API-Rahma yang telah diperbaiki. Semoga membantu!
